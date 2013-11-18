@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/ant-launcher.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/ecj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/jna.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/lib/pde.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/alt-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/alt-string.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Astrid/Desktop/Processing/java/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
